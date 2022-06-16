@@ -1,0 +1,75 @@
+turn system
+____
+
+overall turns => counts every turn in the match
+player turns (or just turns) => counts every turn for that player
+
+==
+one (30/100 HP) (super cards: 1/1)
+> bleeding (after 2 turns it was initally cast, cast spell)
+==
+(balanced mind >> your attacks deal 5% more damage)
+atk: 5/10
+def: 5/10 
+dodge: 90/100 (evasive trait)
+
+moveset:
+[🔒] ta4 (PHYSICAL, DEBUFF+ATK) (dmg: N/A) (paralyses and cripples you forever) (locked until 20th turn)
+[🔒] dragonfruit (MAGIC, BUFF+ATK) (TRANSFORM MOVE - overrides every move) (5 turns) (locked until 20th turn)
+- [+] Fire Beam Emission (MAGIC, ATTACK) (dmg: 25) [2 Stacks until move is used] (unlimited)
+- [+] Fly (MAGIC, EVADE) (uses 10 of your dodge, 50% to fully dodge attack and resist 50% damage if it fails)
+[=] floop the pig (MAGIC, BUFF) (dmg: N/A) (gives you a spell card every 5 turns) (limited to 1 turn) (//)
+[=] punch (PHYSICAL, ATTACK [QUICK]) (dmg: 5) (normal punch) (unlimited turns)
+
+items:
+[🔒] crucible (MAGIC & PHYSICAL, ATTACK) (dmg: 30) (locked until 5th turn) (2x uses)
+[🔒] nuke (PHYSICAL, DEBUFF+ATK) (dmg: 60+paralyse) (locked until 20th turn) (1x use)
+
+---
+
+==
+KCR (65/100 HP) (super cards: 1/1)
+
+==
+atk: 10/10 
+def: 1/10 
+dodge: 0/100 
+
+moveset:
+
+Return To Zero 
+(MAGIC, COUNTER) (dmg: N/A) (counters any attack, leads into RTZ beatdown) (locked until 5th turn) (can only be used once)
+Follow up attack: RTZ - Beatdown
+(COUNTER, BEATDOWN) (dmg: 50) (beatdown, very powerful) (locked until 5th turn) (can only be used once)
+
+Reality Marble 
+(MAGIC, DEBUFF) (dmg: N/A) (opponent is paralysed, 75% chance miss on opponent second turn) (locked until 20th turn) (every 2 turns)
+
+Invisible Reincarnation 
+(MAGIC, REVIVE) (dmg: N/A) (locked until 5th turn, can only be used once) 
+
+Temporal Erasure 
+(MAGIC, DEBUFF+REVERSE) (dmg: N/A) (erases any magical damage multiplies the turn requirement for the move) (can be used every 3 turns, 50% chance of reversing attack) 
+
+Barrage 
+(PHYSICAL, ATTACK [QUICK]) (dmg: 20) (multiple attacks that are really fast) (unlimited) 
+
+Dimension Slash 
+(MAGIC, ATTACK) (dmg: 30) (bypasses defense, bleed effect) (every 2 turns)
+
+Blue Moon Infusion
+(MAGIC, DEBUFF) (dmg: 1/2 of moveDmg) (infuses weapons with blue electrical fire, similar to poison) (each turn enemy attacks, apply this debuff, lasts 5 turns until cast again) (locked until 10th turn) (can only be used twice) 
+
+Domain of Crimson Expansion 
+(MAGIC, BUFF) (dmg: N/A) (applies a crimson barrier around the user and negates 50% of physical damage) (can only be used 3 times)
+
+Follow-up Effect: Crimson Nirvana 
+(MAGIC, BUFF) (dmg: N/A) (healing effect, heals 10% hp every 5 turns for 15 turns) (30% hp in total)
+
+----------------------------
+score: 1:1 (best to 3)
+----------------------------
+global buffs: (max of 3) (unlocks every 10 turns by order)
+> Fired Up! (inflicts the burning effect, deals 10 damage after 2 turns)
+> SOS Shield (when you are on 20% health, a shield surrounds you that negates 10% of damage)
+> Mage's Curse (all players negate 30% damage, does not stack with other effects and moves)

@@ -1,0 +1,76 @@
+ATW (200/200) (super cards: 1/1)
+---
+atk: 8/10
+def: 6/10
+dodge: 72/100
+
+[=] Chop (dmg: 35) (PHYSICAL, ATTACK[QUICK])
+(chops the enemy and gives them the bleed effect)
+(SPECIAL: Bleeding -- after 3 turns, instantly inflict the enemy with 10 damage)
+(cd: can use every 2 turns)
+
+[=] Knives (dmg: 16) (PHYSICAL, ATTACK[QUICK])
+(send a knife flying to the opponent)
+(SPECIAL: 3 Knives -- send 3 more knives that have  a 50% chance of hitting)
+(cd: none)
+
+[=] Triple Attack (dmg: 35) (PHYSICAL, ATTACK)
+(send 3 powerful punches to the enemy)
+(cd: can use every 2 turns)
+
+[🔒] Timestop (dmg: 16) (MAGIC, DEBUFF+ATTACK)
+(freeze time for 1 round while you are able to move)
+(cd: can use every 3 turns)
+(unlocks at 10th turn)
+
+[🔒] Gasoline & Match (dmg: 14) (PHYSICAL+MAGIC (no selection), DEBUFF+ATTACK)
+(sets a burning effect for 5 rounds)
+(SPECIAL: Burning -- after 5 rounds, instantly inflict 50 damage, can be extinguised with 2 dodge moves in a row)
+(cd: can use every 5 turns)
+(unlocks at 15th turn)
+
+[🔒] Gasoline (dmg: N/A) (PHYSICAL, DEBUFF)
+(lowers ATTACK moves' damage by 15% and negates 15% of COUNTER move damage)
+(SPECIAL: Gassed out -- Lower the enemy's damage by 30% when this is applied, lasts for 1 turn)
+(cd: can be used every 3 turns)
+(unlocks at 15th turn)
+
+[🔒] Impale (dmg: 30) (PHYSICAL, COUNTER)
+(impales the enemy and counters them, also heavily bleeds them)
+(SPECIAL: Bleeding -- after 5 turns, instantly inflict the enemy with 25 damage)
+(cd: can be used every 5 turns)
+(unlocks at 15th turn)
+
+[🔒] Teleport (dmg: N/A) (MAGIC, EVASIVE)
+(dodge the enemy move)
+(cd: can be used every 3 turns)
+(unlocks at 20th turn)
+
+[🔒] Time will come to a halt! (dmg: 75) (MAGIC, ATTACK[ULTIMATE]) (requires super card)
+(stop time "cutscene move", ultimate move)
+(SPECIAL: Weak Spot (for the caster) -- if this move is countered, deal 20% of the movedmg to yourself)
+(cd: limited to only 1 turn)
+(unlocks at 30th turn)
+
+items: (max of 3)
+[=] Belt of Knives (dmg: 48) (PHYSICAL, ATTACK)
+(use a belt of knives, with 3 knives attached to it)
+(cd: 2 uses, can use every 3 turns)
+
+[🔒] Barbed Wire (dmg: N/A) (PHYSICAL, DEBUFF+ATTACK)
+(applies a bleed effect and removes the enemy's ablity to use EVASIVE moves)
+(SPECIAL: Partially Paralysed -- you cannot use any EVASIVE moves during this time, lasts 3 turns)
+(SPECIAL: Bleeding -- after 3 turns, instantly inflict the enemy with 10 damage)
+(cd: has 3 uses)
+(unlocks at 10th turn)
+
+[🔒] Beartrap (dmg: 30) (PHYSICAL, COUNTER) (must be placed beforehand)
+(any physical attack cast by the enemy will result in 30 damage and bleeding)
+(SPECIAL: Bleeding -- after 3 turns, instantly inflict the enemy with 10 damage)
+(cd: lasts for 3 turns, has 8 uses)
+(unlocks at 18th turn)
+-
+
+[/] Combo (passive)
+- If any fire and bleed effects is applied to the player with this passive, apply the [BOILING BLOOD] debuff to the enemy
+and instantly boost your fire damage by 2.
