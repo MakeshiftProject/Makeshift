@@ -1,0 +1,40 @@
+== KCR == 
+Stats:
+
+hp: 200/200
+atk: 10/10 
+def: 5/10
+dodge: 1/100
+
+Moveset:
+
+Barrage 
+(PHYSICAL ATTACK, QUICK) (dmg: 20) (multiple punches that are really fast) (cooldown: unlimited) 
+[lasts 1 turn] 
+
+Dimension Slash 
+(MAGIC, ATTACK) (dmg: 30) (bypasses defense, bleed effect) (cooldown: 1 turns) 
+[lasts 1 turn]
+
+Reality Marble (MAGIC, DEBUFF) (dmg: N/A) (stuns the enemy for their first turn, 75% chance miss on opponent's second turn) (locked until 15th turn) (cooldown: 3 turns) 
+[lasts 2 turns] 
+Follow up Attack: Crushed by Burning Death (PHYSICAL ATTACK, POWERFUL, ULTIMATE) (dmg: 150) (while enemy is affected by Reality Marble, crush them with a giant flaming spear of death) (Special: after 5 turns, additional flaming arrows will rain down on the enemy, dealing 50 more damage) (Conditions: must be below 25% hp and in Final Stand) (locked until 20th turn)
+[lasts 5 turns]
+
+Temporal Erasure (MAGIC, DEBUFF+REVERSE) (dmg: N/A) (erases any magical damage) (50% chance of reversing attack) (cooldown: 2 turns) [lasts 1 turn] 
+Follow up Attack: Erasure: Maximum Reversal (MAGIC, POWERFUL, ULTIMATE) (dmg: 80) (if enemy’s attack is over 50% of remaining hp, reverse the damage with a bonus ultra finisher, dealing 80 dmg + reversed damage) (locked until 20th turn)
+[lasts 1 turn]
+
+Return To Zero (MAGIC, COUNTER) (dmg: N/A) (counters any attack, leads into RTZ beatdown) (locked until 10th turn) (usage: 1 time) [lasts 1 turn] 
+Follow up attack: RTZ - Beatdown (COUNTER, BEATDOWN) (dmg: 50) (beatdown, very powerful) (locked until 10th turn) (usage: 1 time) 
+[lasts 1 turn] 
+
+Invisible Reincarnation (MAGIC, REVIVE) (dmg: N/A) (revives own self if deceased) (condition: cannot be hit by over 100 damage while undergoing this move) (locked until 5th turn) (usage: 1 time) 
+[lasts 2 turns] 
+Follow up affect: Final Stand (MAGIC, BUFF) (dmg: 10) (stuns the enemy for one turn and becomes invisible to the opponent, increases dodge by 99, defense by 5 and decrease dmg by 50%) (usage: 1 time) 
+[lasts for the whole round]
+Submove: Ultimate Conjurement: Mega Ultra Insinct (MAGIC, SUBMOVE) (dmg: N/A) (provides 5 spell cards and in result of Final Stand, gain the airborne ability) (locked until 10th turn) (usage: 1 time) 
+[lasts for the whole round]
+
+Deathly Rain (MAGIC, DEBUFF) (dmg: 40) (applies huge rain clouds over the enemy, raining burning fireballs which decrease the enemy's attacks by 50%) (Special: deals 40 dmg over 5 turns - 8 dmg per turn) (cooldown: 4 turns) (locked until 10th turn)
+[lasts 2 turns]

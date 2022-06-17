@@ -1,0 +1,24 @@
+==
+one (30/100 HP) (super cards: 1/1)
+> bleeding (after 2 turns it was initally cast, cast spell)
+==
+(balanced mind >> your attacks deal 5% more damage)
+atk: 5/10
+def: 5/10 
+dodge: 90/100 (evasive trait)
+
+moveset:
+[🔒] ta4 (PHYSICAL, DEBUFF+ATK) (dmg: N/A) (paralyses and cripples you forever) (locked until 20th turn)
+[🔒] dragonfruit (MAGIC, BUFF+ATK) (TRANSFORM MOVE - overrides every move) (5 turns) (locked until 20th turn)
+- [+] Fire Beam Emission (MAGIC, ATTACK) (dmg: 25) [2 Stacks until move is used] (unlimited)
+- [+] Fly (MAGIC, EVADE) (uses 10 of your dodge, 50% to fully dodge attack and resist 50% damage if it fails)
+[=] floop the pig (MAGIC, BUFF) (dmg: N/A) (gives you a spell card every 5 turns) (limited to 1 turn) (//)
+[=] punch (PHYSICAL, ATTACK [QUICK]) (dmg: 5) (normal punch) (unlimited turns)
+
+items:
+[🔒] crucible (MAGIC & PHYSICAL, ATTACK) (dmg: 30) (locked until 5th turn) (2x uses)
+[🔒] nuke (PHYSICAL, DEBUFF+ATK) (dmg: 60+paralyse) (locked until 20th turn) (1x use)
+
+---
+
+==
