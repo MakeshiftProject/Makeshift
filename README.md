@@ -13,8 +13,7 @@ Check the latest rulebook for more.
 Below are things we look forward to in the future.
 
 ## Planned changes:
-- Mutations (players get to pick one mutation that helps them with combat) (to-do)
 - Trait Rework (currently, traits are all over the place) (to-do)
 - Global Buffs (for ongoing matches and tournaments to help all players) (to-do)
 - Practice Matches (let players practice their combat skills with a dummy or another player's moveset) (in-progress)
-- More Player Spots in Matches (to allow FFA and 2v2s) (to-do)
+- Stats Rework (currently, DEF doesn't work well) (to-do)

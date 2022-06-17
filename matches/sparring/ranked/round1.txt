@@ -1,6 +1,18 @@
+(since v1.2)
 ATW vs KCR
 ---
 
-ATW (200/200)
+ATW (16/200)
+> domain of crimson expansion (50% physical dmg decrease)
 ---
-KCR (200/200)
+KCR (0/200)
+> domain of crimson expansion
+> boiling blood 
+> dmg boost (permanent) (deal 5 more dmg)
+
+---
+END
+---
+1:0
+ATW vs KCR
+---

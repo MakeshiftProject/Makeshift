@@ -1,0 +1,18 @@
+Traits:
+
+===
+Glass Cannon (10/10 ATK)
+[25% dmg increase]
+[10% incoming dmg increase]
+
+Le Meat Shield (10/10 DEF)
+[25% incoming dmg decrease] 
+
+Swift Ninja (over 75/100 DODGE)
+[10% incoming dmg decrease] 
+
+Mastered Instincts (MAX DODGE (100/100 DODGE))
+[15% incoming dmg decrease]
+[+10% incoming dmg decrease from Swift Ninja]
+[10% dmg increase] 
+===

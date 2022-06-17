@@ -1,3 +1,6 @@
+(#1)
+last updated on v1.2
+
 ==
 one (30/100 HP) (super cards: 1/1)
 > bleeding (after 2 turns it was initally cast, cast spell)

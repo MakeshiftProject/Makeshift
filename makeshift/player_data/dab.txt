@@ -1,68 +1,20 @@
-dab (152/200)
+(#3)
+dab (200/200)
 ==
-atk: 4/10
-def: 8/10 (tank - defensive trait) (added 25 health to max hp)
-dodge: 80/100 (ninja - evasive trait) (you have a 50% chance to not be affected by counterattacks)
+atk: 5/10
+def: 10/10
+dodge: 50/100
 
-Moves:
-[=] Double Slash (PHYSICAL, ATTACK[QUICK]) 
-(dmg: 20) 
-(a normal physical attack using a sword)
-(unlimited)
+[=] Defensive Strike (dmg: 8) (PHYSICAL, ATTACK+COUNTER)
+(applies Defensive Stance)
+(SPECIAL: Defensive Stance -- block 20% of any future attacks, lasts 1 turn)
+(cd: none)
 
-[=] Block (PHYSICAL, DEFEND+COUNTER) 
-(dmg: if reflect works, deal 20% of enemy move dmg) 
-(blocking with a shield, negates 70% of any PHYSICAL dmg and negates 30% of any MAGIC dmg)
-(SPECIAL: Reflect -- reflect the move dmg with an rng of 1-5, if 3 or higher, reflect 20% of enemy dmg)
-(can be used every 2 turns)
+[=] Air Slash (dmg: 12) (PHYSICAL+MAGIC, ATTACK+BUFF)
+(sends an echo of a normal slash)
+(cd: NONE)
 
-[=] Combo (PHYSICAL, BUFF[QUICK])
-(dmg: stacks * 4)
-(gain a combo stack, once a maximum of 6 combo stacks has been reached, use submove)
-[+] Snap it left, right, down, up, left, down, up, right! (PHYSICAL, ATTACK[QUICK])
-(Attack the enemy 6 times at the same time!)
-(unlimited) (if stack limit reached, unable to use main move)
-
-[🔒] Blessings from the Heavens (MAGIC, BUFF+SPELL CARD)
-(dmg: N/A)
-(deal x2 damage for 2 turns and gain a spell card)
-(SPECIAL: Heavenly Strike -- if d20 rolls on 14 or higher, deal 30 damage to the enemy plus a healing buff to yourself)
-(can be used every 5 turns) (locked until 15th turn)
-
-[🔒] Bullseye (PHYSICAL+MAGIC, ATTACK)
-(dmg: 25% of current health of enemy)
-(summon a bow from the heaves and shoot down the enemy)
-(locked until 25th turn)
-
-[🔒] Shutdown (PHYSICAL+MAGIC, ATTACK) (requires a super card)
-(dmg: 100)
-(charges up a sword slash that deals way too much damage)
-(locked until 50th turn) (can only be used once)
-
-[🔒] Execution (PHYSICAL, ATTACK) (requires a super card)
-(dmg: 150+Death is Near)
-(you are literally able to kill the enemy instantly)
-(locked until 100th turn) (can only be used once)
-
-
-Items (max of 3):
-
-[//] [🔒] Trap Card (MAGIC, DEBUFF+SPELL CARD)
-(dmg: N/A)
-(inflict Death is Near effect for 1 turn)
-(SPECIAL: Death is Near -- enemy is locked on 50 health if higher than 50, they are fully crippled, paralaysed and stunned)
-(can only be used twice) (locked until 30th turn)
-
-[//] [🔒] Lockdown (MAGIC, DEFENSE)
-(dmg: damage 5% of your current health to yourself, N/A for the enemy)
-(summon a shield that resists 90% of damage from all damage types)
-(locked until 25th turn) (can only be used twice)
-
-[//] [=] Rest and Rebuild (MAGIC, HEALING+DEFENSE)
-(dmg: N/A)
-(heals 25% of max health, if on full health, overflow health)
-(can only be used every 5 turns)
-
----
-
-dummy (0/0)
+[=] Quintuple Slash (dmg: 36) (PHYSICAL, ATTACK+BUFF)
+(quickly strike the enemy 5 times)
+(SPECIAL: Berserk -- Gain a stack of Berserk, which lets you do 1 more damage.)
+(cd: can use every 2 turns)

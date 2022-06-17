@@ -1,18 +1,19 @@
+(#4)
 ATW (200/200) (super cards: 1/1)
 ---
-atk: 8/10
-def: 6/10
-dodge: 72/100
+atk: 9/10
+def: 4/10
+dodge: 82/100
 
-[=] Chop (dmg: 35) (PHYSICAL, ATTACK[QUICK])
+[=] Chop (dmg: 40) (PHYSICAL, ATTACK)
 (chops the enemy and gives them the bleed effect)
 (SPECIAL: Bleeding -- after 3 turns, instantly inflict the enemy with 10 damage)
-(cd: can use every 2 turns)
+(cd: can use every 3 turns)
 
-[=] Knives (dmg: 16) (PHYSICAL, ATTACK[QUICK])
+[=] Knives (dmg: 16) (PHYSICAL, ATTACK)
 (send a knife flying to the opponent)
-(SPECIAL: 3 Knives -- send 3 more knives that have  a 50% chance of hitting)
-(cd: none)
+(SPECIAL: 3 Knives -- send 3 more knives that have a 75% chance of hitting)
+(cd: 3 turns)
 
 [=] Triple Attack (dmg: 35) (PHYSICAL, ATTACK)
 (send 3 powerful punches to the enemy)
@@ -24,8 +25,8 @@ dodge: 72/100
 (unlocks at 10th turn)
 
 [🔒] Gasoline & Match (dmg: 14) (PHYSICAL+MAGIC (no selection), DEBUFF+ATTACK)
-(sets a burning effect for 5 rounds)
-(SPECIAL: Burning -- after 5 rounds, instantly inflict 50 damage, can be extinguised with 2 dodge moves in a row)
+(sets a burning effect for 5 turns)
+(SPECIAL: Burning -- after 5 turns, instantly inflict 50 damage, can be extinguised with 2 dodge moves in a row)
 (cd: can use every 5 turns)
 (unlocks at 15th turn)
 
@@ -50,12 +51,12 @@ dodge: 72/100
 (stop time "cutscene move", ultimate move)
 (SPECIAL: Weak Spot (for the caster) -- if this move is countered, deal 20% of the movedmg to yourself)
 (cd: limited to only 1 turn)
-(unlocks at 30th turn)
+(unlocks at 25th turn)
 
 items: (max of 3)
 [=] Belt of Knives (dmg: 48) (PHYSICAL, ATTACK)
 (use a belt of knives, with 3 knives attached to it)
-(cd: 2 uses, can use every 3 turns)
+(cd: 1 use, can use every 4 turns)
 
 [🔒] Barbed Wire (dmg: N/A) (PHYSICAL, DEBUFF+ATTACK)
 (applies a bleed effect and removes the enemy's ablity to use EVASIVE moves)
@@ -67,9 +68,9 @@ items: (max of 3)
 [🔒] Beartrap (dmg: 30) (PHYSICAL, COUNTER) (must be placed beforehand)
 (any physical attack cast by the enemy will result in 30 damage and bleeding)
 (SPECIAL: Bleeding -- after 3 turns, instantly inflict the enemy with 10 damage)
-(cd: lasts for 3 turns, has 8 uses)
-(unlocks at 18th turn)
--
+(cd: lasts for 3 turns, has 4 uses)
+(unlocks at 15th turn)
+
 
 [/] Combo (passive)
 - If any fire and bleed effects is applied to the player with this passive, apply the [BOILING BLOOD] debuff to the enemy
