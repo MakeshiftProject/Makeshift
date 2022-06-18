@@ -1,2 +1,7 @@
 #5
-GE (200/200)
+GE (200/200) (Super cards: 1/1)
+ATK - 8
+DEF - 5
+DODGE - 75
+
+[=] Barrage (35 dmg) (PHYSICAL, )
