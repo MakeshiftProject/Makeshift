@@ -68,9 +68,9 @@ items: (max of 3)
 [🔒] Beartrap (dmg: 30) (PHYSICAL, COUNTER) (must be placed beforehand)
 (any physical attack cast by the enemy will result in 30 damage and bleeding)
 (SPECIAL: Bleeding -- after 3 turns, instantly inflict the enemy with 10 damage)
-(cd: lasts for 3 turns, has 4 uses)
+(frequency: lasts for 3 turns, has 4 uses)
 (unlocks at 15th turn)
-
+(cd: 6 turns)
 
 [/] Combo (passive)
 - If any fire and bleed effects is applied to the player with this passive, apply the [BOILING BLOOD] debuff to the enemy
