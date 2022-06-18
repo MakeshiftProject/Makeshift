@@ -1,0 +1,4 @@
+In case of a failed save, all files must be saved in the MediaFire folder before leaving VSCode.
+Otherwise, please fully commit all your changes!
+
+https://www.mediafire.com/folder/wr475t9t4aipi/Makeshift

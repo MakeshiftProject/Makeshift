@@ -1,0 +1,71 @@
+(#3)
+BST (200/200)
+
+Description: Blood Sacrificial Tank. A sacrificial tank that sacrifices HP for more damage. Uses swords to attack.
+==
+atk: 5/10
+def: 10/10 (Le Meat Shield)
+(25% damage reduction)
+dodge: 50/100
+(negate 50% of all damage when dodged)
+
+[=] Defensive Strike (dmg: 8) (PHYSICAL, ATTACK+DEFENSE)
+(applies Defensive Stance)
+(SPECIAL: Defensive Stance -- block 20% of any future attacks, lasts 1 turn)
+(cd: none)
+
+[=] Air Slash (dmg: 12) (PHYSICAL+MAGIC, ATTACK+BUFF)
+(sends an echo of a normal slash)
+(cd: NONE)
+
+[=] Quintuple Slash (dmg: 36) (PHYSICAL, ATTACK+BUFF)
+(quickly strike the enemy 5 times)
+(SPECIAL: Berserk -- Gain a stack of Berserk, which lets you do 1 more damage.)
+(cd: can use every 2 turns)
+
+[🔒] Sacrificial Strike (dmg: base=10, base * stacks) (PHYSICAL+MAGIC, ATTACK+BUFF)
+(sacrifice 10 of max HP for 10 more damage)
+(SPECIAL: Blood Boost -- Gain a stack of BSD (Bleed Sword Dance), which sacrifices 10 of your max HP for 10 damage. Bypasses damage reduction.)
+(unlocks at 10th turn)
+(cd: none)
+
+[🔒] Just waiting for the right moment.. (dmg: 1/4 of enemy's movedmg) (PHYSICAL, COUNTER)
+(copy the enemy's move, but deal only 1/4 of the movedmg)
+(unlocks at 15th turn)
+(cd: can be used every 3 turns)
+
+[🔒] Blood Bath (dmg: N/A) (MAGIC, HEALING)
+(heal 50% of max HP)
+(cd: can be used every 10 turns)
+(locked until 20th turn)
+
+[🔒] Executioner's Wish (dmg: 30) (PHYSICAL, ATTACK+DEBUFF)
+(wield a claymore, which deals 30 dmg and heavy bleed)
+(SPECIAL: Heavy Bleed -- when this effect is active, deal 1/2 of movedmg overtime, lasts 3 turns)
+(cd: can be used every 5 turns)
+(locked until 25th turn)
+
+[🔒] Determined Strike (dmg: 80) (PHYSICAL, ATTACK+DEBUFF) (requires super card)
+(strike the enemy with determination, inflicting 80 dmg)
+(SPECIAL: Fear -- Fear the enemy)
+(locked until 25th turn)
+
+Items (Consumables):
+[🔒] Recall to Earth (dmg: N/A) (MAGIC, COUNTER)
+(reverses any magic DMG before this move was cast)
+(cd: can be used only three times)
+(locked until 10th turn)
+
+[🔒] SOS Shield (dmg: N/A) (MAGIC, DEFENSE)
+(resist 80% of physical dmg and 20% of magic DMG for 3 turns, cannot cast any attack move until effect ends)
+(cd: can be used only once)
+(locked until 20th turn)
+
+[🔒] Blood for the Altar (dmg: 10, inflict on self) (MAGIC, BUFF)
+(gain a stack of Revenge of the Undead)
+(SPECIAL: Revenge of the Undead -- summon the undead, which give a x1.2 damage boost, stacks)
+(cd: can only be used five times before another 30 health penalty, bypasses damage reduction)
+(locked until 25th turn)
+
+[//] Sword Dance (passive)
+- Activates on 1st turn. When this passive is active, deal 5% more PHYSICAL dmg every 5 turns.
