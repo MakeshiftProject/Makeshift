@@ -1,0 +1,48 @@
+(#5)
+---
+TEA (200/200)
+===
+stats: 
+atk: 5/10
+def: 10/10
+dodge: 50
+
+Movesets:
+
+Yae Miko - initial burst move: 40 dmg (locked until 5th turn)
+Elemental Skill: 10 + 20 + 30
+When casting the skill, add 10 dmg to the total eventual dmg.
+every time it is enemy's turn, deal this dmg to the enemy (3 turns total)
+
+Zhongli - initial burst move: 30 dmg (locked until 2nd turn)
+Elemental Skill: Applies shield
+gives a 75% dmg reduction for 2 turns
+
+Venti - initial burst move: 20 dmg (paralyses enemy for 1 turn)
+Elemental Skill: 10 dmg
+lifts player into the air and dodges any physical attack
+
+Raiden - initial burst move: 50 dmg (locked until 10th turn)
+Elemental Skill: 20 dmg
+applies electricity to the enemy, dealing an extra 10 dmg every attack for 5 turns
+
+Fortune Slip Pulling
+Pulls 2 spell cards for you.
+
+*all burst moves are reserve moves except for venti's 
+Consumables:
+
+Atk buffing food
+buffs atk by 25% for 2 turns - usage: 2 times
+
+Def buffing food
+buffs shields by 25% for 1 turn - usage: 4 times
+
+Hp healing food
+heals hp by 10% - usage: 4 times 
+Spell Cards:
+1. Elemental Resonance: Pyro. decrease physical dmg by 40% less. Increases ATK by 25%.
+2. Elemental Resonance: Electro. Decrease dodging by 40. Increases ATK dmg by 100% for one turn. (cooldown: 5 turns)
+3. Elemental Resonance: Geo. Increases shield strength by 25%. Additionally, characters protected by a shield will have the following special characteristics: DMG dealt increased by 15%, dealing DMG to enemies will increase dmg their dmg taken by 20% for the next attack
+4. Elemental Resonance: Cryo. Increase dodging by 40 and decrease def by 5. Decreases enemy hp by 15% after venti's burst or skill.
+5. Elemental Resonance: Hydro. Decrease magic dmg by 40% less. Increases hp by 30% of max hp.
