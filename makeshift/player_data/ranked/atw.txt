@@ -74,4 +74,4 @@ items: (max of 3)
 
 [/] Combo (passive)
 - If any fire and bleed effects is applied to the player with this passive, apply the [BOILING BLOOD] debuff to the enemy
-and instantly boost your fire damage by 2.
+and instantly boost your fire damage by 2. 
