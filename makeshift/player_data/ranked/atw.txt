@@ -47,9 +47,10 @@ dodge: 82/100
 (cd: can be used every 3 turns)
 (unlocks at 20th turn)
 
-[🔒] Time will come to a halt! (dmg: 75) (MAGIC, ATTACK[ULTIMATE]) (requires super card)
+[🔒] Time will come to a halt! (dmg: 75) (PHYSICAL, ATTACK[ULTIMATE]) (requires super card)
 (stop time "cutscene move", ultimate move)
-(SPECIAL: Weak Spot (for the caster) -- if this move is countered, deal 20% of the movedmg to yourself)
+(NEGATIVE EFFECT: Timestop Resistance -- Some abilities will have the ability to move for a moment during the timestop. Grants 10% less
+ultimate damage, adds minor bleed instead)
 (cd: limited to only 1 turn)
 (unlocks at 25th turn)
 

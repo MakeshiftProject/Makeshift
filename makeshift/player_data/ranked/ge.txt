@@ -1,6 +1,3 @@
-(hey @gitboui check session chat)
-(deletus both after you're done reading this)
-
 #5
 GE (200/200) (Super cards: 1/1)
 ATK - 8
@@ -17,4 +14,41 @@ DODGE - 75
 
 [=] Frog Punch (25 dmg) (PHYSICAL & MAGIC, ATTACK & DEBUFF)
 (SPECIAL: Frogify -- Turn an enemy's limb into a frog, 25% damage debuff for 3 turns)
+(Transform the enemy's arm into a frog, crippling them)
 (cd: 6 turns)
+
+[🔒] Summon Lifeform (30 dmg) (PHYSICAL, ATTACK)
+(SPECIAL: Expose -- Exposes your enemy into a vulnerable state, increasing damage by 50% for the next turn [cannot use ultimate])
+(Summon a bird by transforming the ground into a speedy bird)
+(Usage: 2 times /// cd: 5 turns)
+(unlocks at turn 15)
+
+[🔒] Tree (10 dmg) (PHYSICAL, COUNTER & REVERSAL)
+(SPECIAL: Life Reflect -- For the next 2 turns, sit on a tree, being able to heal and prepare)
+(Punch the ground to create life for a tree)
+(unlocks at wave 10)
+
+[🔒] Self-heal (50 HP) (HEAL)
+(SPECIAL: Status Check -- Removes all negative status effects except fire)
+(Transform an object into a healing apparatus)
+(unlocks at turn 15)
+
+[🔒] Life-giving Punch (PHYSICAL, DEBUFF)
+(SPECIAL: Life-punch -- Punch the enemy's soul out of their body, leaving them vulnerable for 1 turn [cannot use ultimate])
+(Punch out the enemy's soul to freeze them)
+(unlocks at turn 15)
+
+[🔒] 7 Page MUDA (60 dmg) (PHYSICAL, ATTACK[ULTIMATE]) (requires super card)
+(MUDAMUDAMUDAMUDAMUDAMUDA!!! WRRRRYYYYYYYY!!! MUDAMUDAMUDAMUDA, MUDA!!)
+(usage: 1 turn)
+(unlocks at turn 25)
+
+[🔒] This.. Is.. Requiem.
+(Go into the state of zero.) 
+(SPECIAL: Life Imbued Attacks -- Increases damage for all moves [except frog punch and consecutive attacks].)
+
+
+[⭐️] Summon Falcon (50 dmg) (PHYSICAL, ATTACK)
+(SPECIAL: Heavy Scratching -- Inflict a bleed effect (5 dmg in 3 waves))
+(Summons a swift bird)
+(usage: 1)
