@@ -8,7 +8,7 @@ DODGE - 75
 (Let out a flurry of punches)
 (cd - 2 turns)
 
-[=] Consecutive attakcs (50 dmg) (PHYSICAL, ATTACK)
+[=] Consecutive attacks (50 dmg) (PHYSICAL, ATTACK)
 (Unleash a series of devastating attacks)
 (cd: 4 turns)
 
@@ -17,7 +17,7 @@ DODGE - 75
 (Transform the enemy's arm into a frog, crippling them)
 (cd: 6 turns)
 
-[🔒] Summon Lifeform (30 dmg) (PHYSICAL, ATTACK)
+[🔒] Summon Lifeform (30 dmg) (MAGIC, ATTACK)
 (SPECIAL: Expose -- Exposes your enemy into a vulnerable state, increasing damage by 50% for the next turn [cannot use ultimate])
 (Summon a bird by transforming the ground into a speedy bird)
 (Usage: 2 times /// cd: 5 turns)
@@ -33,7 +33,7 @@ DODGE - 75
 (Transform an object into a healing apparatus)
 (unlocks at turn 15)
 
-[🔒] Life-giving Punch (PHYSICAL, DEBUFF)
+[🔒] Life-giving Punch (PHYSICAL & MAGIC, DEBUFF)
 (SPECIAL: Life-punch -- Punch the enemy's soul out of their body, leaving them vulnerable for 1 turn [cannot use ultimate])
 (Punch out the enemy's soul to freeze them)
 (unlocks at turn 15)
@@ -44,11 +44,33 @@ DODGE - 75
 (unlocks at turn 25)
 
 [🔒] This.. Is.. Requiem.
-(Go into the state of zero.) 
+(Go into the state of zero for 6 turns.) 
 (SPECIAL: Life Imbued Attacks -- Increases damage for all moves [except frog punch and consecutive attacks].)
 
+GER (Awakened)
+ATK - 9
+DEF - 5
+DODGE - 100
 
-[⭐️] Summon Falcon (50 dmg) (PHYSICAL, ATTACK)
+[⭐️] Summon Falcon (35 dmg) (PHYSICAL, ATTACK)
 (SPECIAL: Heavy Scratching -- Inflict a bleed effect (5 dmg in 3 waves))
 (Summons a swift bird)
 (usage: 1)
+
+[⭐️] Pebble Flick (35 dmg) (PHYSICAL & MAGIC, ATTACK)
+(SPECIAL: Scorpions -- Inflicts a poison and bleed effect [15 dmg in 1 turn])
+(Flick a pebble that turns into scorpions after hitting opponent)
+(Usage: 2 /// cd: 3)
+
+[⭐️] Zero (MAGIC, COUNTER)
+(Infinitely loop your enemy into a state of infinity for 1 turn [Stuns them for 1 turn])
+(usage: 1)
+
+[⭐️] Absolute Zero (MAGIC, COUNTER)
+(Cancel any move [except ultimates])
+(usage: 1)
+
+[⭐️] 'You will never arrive at the truth..' (80 dmg) (PHYSICAL, ATTACK [ULTIMATE]) (requires super card)
+(A flurry of deadly blows, MUDA!)
+(usage: 1 [links with 7 page MUDA usage])
+(unlocks at wave 25)
