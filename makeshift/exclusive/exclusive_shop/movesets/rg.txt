@@ -1,0 +1,58 @@
+(EX #1)
+---
+RG (200/200)
+Description: Rainbow Gunner. An exclusive moveset for Pride Month. 
+Delayed to July 31st because Season starts at July 1st.
+
+(For sale for 10 Season Fragments until July 31st)
+(Offsale and Unranked after July 31st)
+(Magic move conditions do not apply to this moveset.)
+===
+ATK: 10/10 (Glass Cannon)
+DEF: 3/10
+DODGE: 0/100
+
+[✨] Quick Shot (dmg: 15) (MAGIC, ATTACK)
+(send a quick plasma-infused rainbow laser)
+(can be used every turn)
+
+[🌈] Rainbow Blast (dmg: 25) (MAGIC, ATTACK)
+(shoot the enemy with plasma-infused rainbow lasers)
+(SPECIAL: Wrong time, wrong shot -- Make the enemy miss their next move with a 70% chance)
+(can be used every 2 turns)
+
+[🌈] Return to Sender (dmg: enemy moveDmg) (MAGIC, COUNTER)
+(summon a rainbow harpoon that reflects the enemy's move (if it's an attack) based on their dodge)
+(how this move is applied: dodge = dodge%, dodge% = chance of reflecting attack)
+(can be used every 5 turns)
+
+[💫] Starboost (dmg: N/A) (MAGIC, BUFF)
+(gain a Star stack)
+(SPECIAL: Star -- when a stack is earned, increase the damage of all other moves except for reserve moves by x1.1, up to 9 stacks)
+(locked until 10th turn)
+
+[💫] Double Blast (dmg: 50) (MAGIC, ATTACK)
+(blast the enemy twice with plasma-infused rainbow lasers)
+(can be used every 4 turns)
+(locked until 15th turn)
+
+===Consumables===
+[⭐] Star Candy (heals 20 HP) (MAGIC, HEALING)
+(locked until 5th turn)
+(has 10 uses, can only be used every 3 turns)
+(castable with other moves)
+
+[⭐] Rainbow Shield (heals 2 HP overtime, resists 50% of overall DMG) (MAGIC, DEFENSE+HEALING)
+(all bleed effects are negated, disables all ATTACK moves)
+(locked until 10th turn)
+(has 3 uses, can only be used every 3 turns)
+
+[⭐] Rainbow Mortar (dmg: 40)
+(send a rainbow bomb to the enemy through a mortar)
+(locked until 15th turn)
+(has 3 uses, can only be used every 5 turns)
+
+==========================================
+
+[/] Spellcaster (passive)
+- MAGIC exclusive movesets only. Gain a 10% dmg boost for all normal MAGIC attacks.

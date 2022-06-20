@@ -6,7 +6,7 @@ DODGE - 75
 
 [=] Barrage (35 dmg) (PHYSICAL, ATTACK)
 (Let out a flurry of punches)
-(cd - 2 turns)
+(cd: 2 turns)
 
 [=] Consecutive attacks (50 dmg) (PHYSICAL, ATTACK)
 (Unleash a series of devastating attacks)
@@ -64,11 +64,11 @@ DODGE - 100
 
 [⭐️] Zero (MAGIC, COUNTER)
 (Infinitely loop your enemy into a state of infinity for 1 turn [Stuns them for 1 turn])
-(usage: 1)
+(usage: 1) (2 turn cooldown after using Absolute Zero)
 
 [⭐️] Absolute Zero (MAGIC, COUNTER)
 (Cancel any move [except ultimates])
-(usage: 1)
+(usage: 1) (2 turn cooldown after using Zero)
 
 [⭐️] 'You will never arrive at the truth..' (80 dmg) (PHYSICAL, ATTACK [ULTIMATE]) (requires super card)
 (A flurry of deadly blows, MUDA!)

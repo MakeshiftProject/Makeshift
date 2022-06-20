@@ -1,0 +1,39 @@
+(S1 #1)
+---
+DK (200/200)
+Description: Dark Knight. A Dark Knight that relies on DEF and special effects to deal DMG.
+(Available from start of season to mid of season 2)
+(Offsale and Unranked from mid of season 2)
+(Requires 1 Season Coin or 100 Season Fragments)
+===
+ATK: 5/10
+DEF: 10/10 (Le Meat Shield)
+Dodge: 0/100
+===
+
+[🛡️] Defensive Slash (dmg: scales off of 1/8 of current health) (PHYSICAL, ATTACK)
+(send out a slash that is based from 1/8 of your current health)
+(can be used every turn)
+
+[🌑] Darkness Has Arisen (dmg: def * 3 = moveDmg) (MAGIC, ATTACK)
+(send out a slash infused with darkness and add the darkness effect)
+(SPECIAL: Darkness -- reduce enemy dmg by 20% and make them have a 30% chance of missing)
+(can be used every 3 turns)
+
+[🔒🌑] Darkness Transformation (dmg: 10) (lasts for 10 turns) (locked until 15h turn) (cd: 10 turns)
+[+] Dark Shield (scales off 1/2 def)
+- Negate ((1/2 def + 1/2 enemyDef) * 2 = block%) of overall dmg
+[+] Triple Dark Slash (dmg: (def * 3) * 3 = subMoveDmg) (MAGIC, ATTACK)
+- Darkness Has Arisen * 3
+(SPECIAL: Darkness -- reduce enemy dmg by 20% and make them have a 30% chance of missing)
+- Can be used every 5 turns
+- Locked until 19th turn
+[+] Sent to the Abyss (dmg: (enemyMoveDmg / 2) * def) (MAGIC, COUNTER)
+- Counter the enemy by sending them to the abyss
+- Can be used every 5 turns
+- Castable with other submoves
+- Locked until 19th turn
+[+] Last Hour (dmg: (def * 3) * enemyDef) (MAGIC, ATTACK)
+- Shred the enemy health with this move
+- Can be used only 3 times
+- Locked until 1 turn before the end of duration
