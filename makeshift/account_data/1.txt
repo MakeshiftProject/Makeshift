@@ -2,3 +2,8 @@
 User: Arc
 Season Fragments: 0
 Season Coins: 0
+
+Owned Movesets:
+Ranked: (#1)
+Unranked: N/A
+Exclusive: N/A
