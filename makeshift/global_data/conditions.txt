@@ -2,6 +2,8 @@ Notes:
 *items will override traits once used in battle
 *dodge = chance percentage of dodging a move
 
+**DODGE MOVES ARE BEING DEPRECATED IN v1.3.1**
+
 Conditions:
 
 Stat conditions:
