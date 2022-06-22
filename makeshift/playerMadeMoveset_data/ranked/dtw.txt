@@ -1,0 +1,23 @@
+#6
+DTW (200/200) (Super cards: 1/1) 
+ATK: 9
+DEF: 7
+DODGE: 5
+
+Passive: Vampirism - Passive heal of 5 every 5 turns (Lasts 10 rounds)
+
+[=] Kick Barrage (30 dmg) (PHYSICAL, ATTACK)
+(SPECIAL: Bone Breaker — Kicks cause a lot a breakage, internal bleeding causes 10 dmg in 3 turns)
+(Unleash a flurry of kicks)
+(cd: 3 turns)
+
+[=] Checkmate (25 dmg) (PHYSICAL, ATTACK)
+(SPECIAL: Full of Knives: Knives stay in chest, causes 10 dmg after 7 turns)
+(Throw a lot of knives into the enemy)
+(cd: 3 turns)
+
+[=] Rib Breaker (20 dmg)
+(SPECIAL: Internal Bleeding — 15 bleed dmg after 3 turns)
+(Land a powerful punch into the enemies ribs)
+(cd: 3 turns)
+
