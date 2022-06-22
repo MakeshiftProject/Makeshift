@@ -22,7 +22,7 @@ Reality Marble
 (MAGIC, DEBUFF) (dmg: N/A) (stuns the enemy for their first turn, 75% chance miss on opponent's second turn) (locked until 15th turn) (cooldown: 3 turns) 
 [lasts 2 turns]
 Follow up Attack: Crushed by Burning Death (PHYSICAL ATTACK, POWERFUL, ULTIMATE) (dmg: 150) (while enemy is affected by Reality Marble, crush them with a giant flaming spear of death) (Special: after 5 turns, additional flaming arrows will rain down on the enemy, dealing 50 more damage) (Conditions: must be below 25% hp and in Final Stand) (locked until 20th turn)
-[lasts 5 turns]
+[lasts 5 turns] 
 
 Temporal Erasure 
 (MAGIC, DEBUFF+REVERSE) (dmg: N/A) (erases any magical damage) (50% chance of reversing attack) (cooldown: 2 turns) [lasts 1 turn] 
@@ -77,5 +77,7 @@ Spell Cards
 
 Extra Details:
 Transformation: Final Stand
-In "Final Stand", player gains a new form which is invisible to the oppnonent, and which transcends all dimensions, making the enemy unable to sense the player.
-In "Ultimate Conjurement: Mega Ultra Insinct", player gains the "airborne" ability, in which the player is airborne for the rest of the round and will dodge all magic attacks, as well as 50% of physical attacks as a result of the "Mastered Insincts" trait
+In "Final Stand", player gains a new form which is invisible to the oppnonent, and which transcends all dimensions, 
+making the enemy unable to sense the player.
+In "Ultimate Conjurement: Mega Ultra Insinct", player gains the "airborne" ability, in which the player is airborne for the rest of the round
+ and will dodge all magic attacks, as well as 50% of physical attacks as a result of the "Mastered Insincts" trait

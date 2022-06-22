@@ -17,7 +17,58 @@ Passive: Vampirism - Passive heal of 5 every 5 turns (Lasts 10 rounds)
 (cd: 3 turns)
 
 [=] Rib Breaker (20 dmg)
-(SPECIAL: Internal Bleeding — 15 bleed dmg after 3 turns)
+(SPECIAL: Internal Bleeding -— 15 bleed dmg after 3 turns)
 (Land a powerful punch into the enemies ribs)
 (cd: 3 turns)
 
+[🔒] The World (MAGIC, DEBUFF)
+(stop time for 1 turn while you are able to move freely - ZA WARUDO!)
+(usage: 3 /// cd: 7 turns)
+(unlocked at turn 10)
+
+[🔒] Sign Chop (20 dmg) (PHYSICAL, ATTACK / DEBUFF)
+(SPECIAL: Amputation -- Heavy bleed (lasts 5 turns with 5 dmg each), unable to use items for 5 turns)
+(Land an amputating sign chop)
+(usage: 1)
+(unlocked at turn 20)
+
+[🔒] Impale (35 dmg) (PHYSICAL, ATTACK)
+(SPECIAL: Impaled -- Heavy bleed (5 dmg) for 5 waves)
+(SPECIAL: If this is used in time stop, the enemy will be kicked into a water tower, adding a debuff where the enemy cant use magic)
+(Make the enemy into a donut!)
+(unlocked at turn 15)
+
+[🔒] Bloodsuck (15 dmg) (30 hp) (PHYSICAL, ATTACK & HEAL)
+(SPECIAL: Wound Heal -- Removes bleeds and heals missing limbs)
+(Steal their blood to heal yourself)
+(usage: 1)
+(unlocked at turn 15)
+
+[🔒] Teleport (MAGIC, EVASIVE)
+(Teleport away from their attack)
+(usage: 2 /// cd: 7 turns)
+(unlocked at turn 10)
+
+[🔒] THIS IS THE END, ROAD ROLLER! (80 dmg) (PHYSICAL, ATTACK [ULTIMATE]) (requires super card)
+(IT IS TOO LATE YOU CANNOT ESCAPE! MUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDA!!!! EIGHT SECONDS HAVE PASSED, I'LL SMASH YOU FLAT!!!)
+(requires Greatest High awakening)
+(usage: 1)
+(unlocked at turn 25)
+
+[🔒] Knife Flurry (37 dmg) (PHYSICAL, ATTACK)
+(SPECIAL: Full of Knives: Knives stay in chest, causes 10 dmg after 7 turns)
+(Stop time and throw a ton of knives)
+(usage: 1)
+(unlocked at turn 15)
+
+[🔒] Time Skip Barrage (30 dmg) (PHYSICAL, ATTACK)
+(Stop time and do a barrage)
+(usage: 2 // cd: 5 turns)
+(unlocked at turn 15)
+
+[🔒] Taunt (PHYSICAL, DEBUFF)
+(SPECIAL: Enrage -- Taunt the enemy, increasing their damage by 10% but decreases their def by 50% for 3 turns)
+(Muda muda..
+
+[🔒] Greatest High (20 hp)
+(SPECIAL)
