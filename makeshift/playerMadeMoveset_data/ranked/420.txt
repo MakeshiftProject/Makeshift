@@ -1,0 +1,31 @@
+(#1)
+---
+420 (200/200 HP)
+==
+ATK: 4/10
+DEF: 8/10
+DODGE: 60 (deprecated in 1.3.1)
+
+moveset:
+
+[=] Devil's Bane (dmg: stacks * 5) (MAGIC, ATTACK+DEBUFF)
+(apply a Bane stack)
+(SPECIAL: Bane -- gain a stack of bane which deals stacks * 5, limited to 5 stacks)
+(if a debuff is applied to you, lose all stacks)
+
+[=] Cluster Explosion (dmg: 30) (MAGIC, ATTACK)
+(send a cluster explosion right to the enemy's face)
+(cd: can be used every 3 turns)
+
+[=] Colossal Smash (dmg: 30) (PHYSICAL, ATTACK)
+(deal an AOE attack that deals a massive amount of damage)
+(cd: can be used every 3 turns)
+
+[⭐]
+
+---
+
+[/] Enraged (passive)
+- When below 50% HP, deal 20% more damage and miss every 2nd attack with a 20% chance of missing.
+
+==
