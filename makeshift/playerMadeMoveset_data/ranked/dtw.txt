@@ -1,7 +1,7 @@
 #6
 DTW (200/200) (Super cards: 1/1) 
-ATK: 9
-DEF: 7
+ATK: 10
+DEF: 5
 DODGE: 5
 
 Passive: Vampirism - Turn skipping heals 7hp
@@ -62,7 +62,7 @@ Passive: Vampirism - Turn skipping heals 7hp
 (unlocked at turn 15)
 
 [🔒] Taunt (PHYSICAL, DEBUFF)
-(SPECIAL: Enrage -- Taunt the enemy, increasing their damage by 10% but decreases their def by 50% for 3 turns)
+(SPECIAL: Enrage -- Taunt the enemy, increasing their damage by 20% but makes them take 2x more damage for 3 turns)
 (Muda muda..)
 
 [🔒] Greatest High (30 hp) (PHYSICAL, HEAL & AWAKENING)
@@ -70,6 +70,7 @@ Passive: Vampirism - Turn skipping heals 7hp
 (SPECIAL: This blood suits me well.. -- Heals 30 hp)
 (SPECIAL: Timestop Extension -- Timestop cd decreases by 2 turns, Timestop lasts 2 turns now)
 (SPECIAL: Rage -- increases basic moves by 10 damage)
+(Lasts 7 turns)
 
 [🔒] THIS IS THE END, ROAD ROLLER! (80 dmg) (PHYSICAL, ATTACK [ULTIMATE]) (requires super card)
 (IT IS TOO LATE YOU CANNOT ESCAPE! MUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDA!!!! EIGHT SECONDS HAVE PASSED, I'LL SMASH YOU FLAT!!!)
