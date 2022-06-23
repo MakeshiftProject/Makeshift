@@ -4,12 +4,13 @@ ATK: 9
 DEF: 7
 DODGE: 5
 
-Passive: Vampirism - Passive heal of 5 every 5 turns (Lasts 10 rounds)
+Passive: Vampirism - Turn skipping heals 7hp
 
 [=] Kick Barrage (30 dmg) (PHYSICAL, ATTACK)
-(SPECIAL: Bone Breaker — Kicks cause a lot a breakage, internal bleeding causes 10 dmg in 3 turns)
+(SPECIAL: Vein Breakage —- Kicks cause a lot a breakage, internal bleeding causes 10 dmg in 3 turns)
+(SPECIAL: Bone Breaker -- Kicks break the bones, decreases damage by 25% for 3 turns)
 (Unleash a flurry of kicks)
-(cd: 3 turns)
+(cd: 4 turns)
 
 [=] Checkmate (25 dmg) (PHYSICAL, ATTACK)
 (SPECIAL: Full of Knives: Knives stay in chest, causes 10 dmg after 7 turns)
@@ -49,15 +50,9 @@ Passive: Vampirism - Passive heal of 5 every 5 turns (Lasts 10 rounds)
 (usage: 2 /// cd: 7 turns)
 (unlocked at turn 10)
 
-[🔒] THIS IS THE END, ROAD ROLLER! (80 dmg) (PHYSICAL, ATTACK [ULTIMATE]) (requires super card)
-(IT IS TOO LATE YOU CANNOT ESCAPE! MUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDA!!!! EIGHT SECONDS HAVE PASSED, I'LL SMASH YOU FLAT!!!)
-(requires Greatest High awakening)
-(usage: 1)
-(unlocked at turn 25)
-
 [🔒] Knife Flurry (37 dmg) (PHYSICAL, ATTACK)
 (SPECIAL: Full of Knives: Knives stay in chest, causes 10 dmg after 7 turns)
-(Stop time and throw a ton of knives)
+(Stop time and throw a ton of knives at the enemy)
 (usage: 1)
 (unlocked at turn 15)
 
@@ -68,7 +63,16 @@ Passive: Vampirism - Passive heal of 5 every 5 turns (Lasts 10 rounds)
 
 [🔒] Taunt (PHYSICAL, DEBUFF)
 (SPECIAL: Enrage -- Taunt the enemy, increasing their damage by 10% but decreases their def by 50% for 3 turns)
-(Muda muda..
+(Muda muda..)
 
-[🔒] Greatest High (20 hp)
-(SPECIAL)
+[🔒] Greatest High (30 hp) (PHYSICAL, HEAL & AWAKENING)
+(Wrrryyyyyyy!!!)
+(SPECIAL: This blood suits me well.. -- Heals 30 hp)
+(SPECIAL: Timestop Extension -- Timestop cd decreases by 2 turns, Timestop lasts 2 turns now)
+(SPECIAL: Rage -- increases basic moves by 10 damage)
+
+[🔒] THIS IS THE END, ROAD ROLLER! (80 dmg) (PHYSICAL, ATTACK [ULTIMATE]) (requires super card)
+(IT IS TOO LATE YOU CANNOT ESCAPE! MUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDA!!!! EIGHT SECONDS HAVE PASSED, I'LL SMASH YOU FLAT!!!)
+(requires Greatest High awakening)
+(usage: 1)
+(unlocked at turn 25)
