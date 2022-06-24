@@ -21,7 +21,10 @@ moveset:
 (deal an AOE attack that deals a massive amount of damage)
 (cd: can be used every 3 turns)
 
-[⭐]
+[⭐] Heavenly Strike (dmg: 30) (MAGIC+PHYSIAL, ATTACK)
+()
+(cd: can be used every 2 turns)
+
 
 ---
 
