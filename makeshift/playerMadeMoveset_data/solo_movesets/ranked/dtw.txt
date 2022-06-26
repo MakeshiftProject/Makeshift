@@ -1,5 +1,6 @@
 #6
 DTW (200/200) (Super cards: 1/1) 
+Description: Dio's The World - The original time-stopping "stand"
 ATK: 10
 DEF: 5
 DODGE: 5

@@ -13,4 +13,4 @@ Check the latest rulebook for more.
 Below are things we look forward to in the future.
 
 ## Planned changes:
-All planned changes are in the v1.3 rulebook, which can be found [here](https://github.com/MakeshiftProject/Makeshift/tree/main/makeshift/rulebook/v1.3).
+All planned changes are in the v1.3 rulebook, which can be found [here](https://github.com/MakeshiftProject/Makeshift/tree/main/rulebook/v1.3).

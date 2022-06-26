@@ -1,5 +1,6 @@
 #5
 GE (200/200) (Super cards: 1/1)
+Description: Gold Experience - Life Creating Stand
 ATK - 8
 DEF - 5
 DODGE - 75

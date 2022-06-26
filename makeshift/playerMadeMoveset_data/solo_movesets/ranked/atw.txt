@@ -1,5 +1,6 @@
 (#4)
 ATW (200/200) (super cards: 1/1)
+Description: Alternate The World - A "stand" that can stop time.
 ---
 atk: 9/10
 def: 4/10

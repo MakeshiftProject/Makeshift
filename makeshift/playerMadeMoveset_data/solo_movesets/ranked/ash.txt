@@ -1,0 +1,9 @@
+(#7)
+---
+ASH (200/200)
+===
+atk: 4/10
+def: 10/10 (Le Meat Shield)
+vit (pre-release): 8/10
+===
+

@@ -7,16 +7,12 @@ Notes:
 Conditions:
 
 Stat conditions:
-if you have 10/10 atk, you cannot have over 7 def or over 50 dodge
-if you have 10/10 def, you cannot have over 5 atk or over 75 dodge
-if you have 100 dodge, you cannot have over 5 def or over 7 atk
-if you have over 50 dodge, you cannot have dodge moves in your moveset
-if you have 100 dodge, you will take 75% of all magic attacks when dodged
-if you have 100 dodge, you will take 50% of all physical attacks when dodged
-if you have over 50 dodge, negate 50% of all damage when dodged
-if you have over 25 dodge, negate 25% of all damage when dodged
-if you do not have 100 dodge, you will not be able to dodge any magic moves
+if you have 10/10 atk, you cannot have over 7 def
+if you have 10/10 def, you cannot have over 5 atk
+If you have 10/10 vitality, you will have max damage capped at 8/10 regardless of stats
+If you have 10/10 vitality, you will have 50 more max hp. (Every tick is 5 hp)
+If you have more than 5 vitality, you will have 5% more heal and revive. (Every other tick is 5%)
+If you have 0 vitality, you will have a 10% chance not to heal at all.
 
 Move conditions:
-you cannot have over 2 normal magic moves and not over 5 reserve magic moves
-
+* You cannot have over 2 normal Magic Moves and 5 reserve Magic Moves
