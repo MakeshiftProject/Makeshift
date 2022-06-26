@@ -43,3 +43,7 @@ vit: 5/10
 (deploy a turret that sends magical dice to the enemy, inflict 10 dmg every 5 turns)
 (SPECIAL: Dice Turret -- max deployment of 5)
 (locked until 30th turn)
+
+Passive:
+[//] Gambler's Delight
+- All RNG moves by the enemy can have its dmg fully copied by "Pick A Card, Any Card".
