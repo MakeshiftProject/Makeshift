@@ -3,7 +3,7 @@ GE (200/200) (Super cards: 1/1)
 Description: Gold Experience - Life Creating Stand
 ATK - 8
 DEF - 5
-DODGE - 75
+VIT - 6 
 
 [=] Barrage (35 dmg) (PHYSICAL, ATTACK)
 (Let out a flurry of punches)
@@ -11,7 +11,7 @@ DODGE - 75
 
 [=] Consecutive attacks (50 dmg) (PHYSICAL, ATTACK)
 (Unleash a series of devastating attacks)
-(cd: 4 turns)
+(cd: 6 turns)
 
 [=] Frog Punch (25 dmg) (PHYSICAL & MAGIC, ATTACK & DEBUFF)
 (SPECIAL: Frogify -- Turn an enemy's limb into a frog, 25% damage debuff for 3 turns)
