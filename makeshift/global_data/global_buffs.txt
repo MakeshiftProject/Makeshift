@@ -1,0 +1,24 @@
+GLOBAL BUFFS
+(applies only in v1.3.5+ matches)
+
+Rage in The Air
+- When there are 2 or more players with 10/10 ATK, apply this GB.
+- When this GB is active, increase everyone's dmg by 20%.
+- Bleed and Fire effects have decreased DMG by 1/2.
+
+Defensive Strategy
+- When there are 2 or more players with 10/10 DEF, apply this GB.
+- When this GB is active, decrease everyone's dmg by 10% and increases max HP of all players by 25.
+
+Stay Strong Soldiers
+- When there are 2 or more players with 10/10 VIT, apply this GB.
+- When this GB is active, increase everyone's max HP by 50.
+
+Wizards' Battlefield
+- When there are 2 or more players with magic-only movesets, apply this GB.
+- When this GB is active, increase MAGIC move dmg by 10%.
+- Decrease max HP by 20 and decrease DEF by 1.
+
+Death is Coming
+- When there are 2 or more players with a bleed-dependent moveset (reviewed by GM), apply this GB.
+- Increase Bleed effects by 50% more DMG.

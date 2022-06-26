@@ -1,0 +1,45 @@
+(#10)
+---
+TC (200/200)
+Description: Time Caster. Uses the power of time to fight the enemies.
+===
+atk: 10/10
+def: 2/10
+vit: 8/10
+====
+
+Moves:
+[⌚] Blast to The Past (dmg: 30) (MAGIC, ATTACK+BUFF)
+(send a time blast to the enemy)
+(SPECIAL: Deja Vu -- Gain a stack of Deja Vu, which increases this move's DMG by 1)
+(cd: can be used every 3 turns)
+
+[⏰] Plasmic Clock Hands (dmg: 20) (MAGIC, ATTACK)
+(send plasmic clock hands that inflict bleed on the enemy)
+(cd: can be used infinitely)
+
+[🕰️] Time Reversal (dmg: N/A) (MAGIC, REVERSAL)
+(go back in time and reverse the previous move made by you or the enemy)
+(cd: can be used every 10 turns)
+
+Consumables:
+[🪜] Time Rune (dmg: N/A) (MAGIC, BUFF)
+(boost the next atk by x2)
+(can be used only twice)
+(locked until 15th turn)
+
+[🪜] Time Immunity (dmg: N/A) (MAGIC, BUFF)
+(be immune to any time related moves)
+(lasts 10 turns, can only be used once)
+(castable with moves)
+(locked until 15th turn)
+
+[❤️‍🩹] Healing Potion (dmg: N/A) (MAGIC, HEALING)
+(heal 50 HP)
+(can be used every 2 turns, can only be used 4 times)
+(castable with moves)
+(locked until 20th turn)
+
+Passive:
+[//] I Shall Withstand It
+- With the power of time, you have a 2% chance of reversing a previous move made by the enemy.

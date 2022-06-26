@@ -1,18 +1,20 @@
 Notes:
-*items will override traits once used in battle
-*dodge = chance percentage of dodging a move
+*traits will be overriden by items once an item that modifies stats is used
 
 **DODGE MOVES ARE BEING DEPRECATED IN v1.3.1**
 
 Conditions:
 
 Stat conditions:
-if you have 10/10 atk, you cannot have over 7 def
-if you have 10/10 def, you cannot have over 5 atk
-If you have 10/10 vitality, you will have max damage capped at 8/10 regardless of stats
+if you have 8+ atk, you must subtract 4 def from your stats
+if you have 8+ def, you must subtract 4 atk from your stats
+if you have 8+ vit, you must subtract 2 def and 2 atk from your stats
+
 If you have 10/10 vitality, you will have 50 more max hp. (Every tick is 5 hp)
 If you have more than 5 vitality, you will have 5% more heal and revive. (Every other tick is 5%)
 If you have 0 vitality, you will have a 10% chance not to heal at all.
 
 Move conditions:
-* You cannot have over 2 normal Magic Moves and 5 reserve Magic Moves
+* You cannot have over 2 normal Magic Moves and 3 reserve Magic Moves (except for magic-only movesets)
+* Any evasive moves (post-v1.3) cannot dodge any reserve Magic Moves that do more than 40 dmg
+* You cannot deal more than 60 dmg for a PHYSICAL atk, unless it is a PHYSICAL+MAGIC

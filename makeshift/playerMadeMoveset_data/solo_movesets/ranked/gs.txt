@@ -1,0 +1,45 @@
+(#9)
+---
+GS (200/200)
+Description: Gambler Specialist. Uses RNG to win battles.
+===
+atk: 9/10
+def: 5/10
+vit: 5/10
+====
+
+[🃏] Card Throw (dmg: 20) (PHYSICAL, ATTACK)
+(send 3 cards flying to the enemy and have a 20% chance of inflicting papercut)
+(SPECIAL: Papercut -- deal light bleed that does 1 damage for 1 turn)
+(cd: can be used infinitely)
+
+[🎲] Dice Roll (dmg: N/A) (MAGIC, BUFF)
+(roll a 6-sided die and multiply the next move you cast by the roll)
+(if 4 or higher, reduce to 3)
+(cd: can be used every 10 turns)
+
+[🎲] Healing Dice (dmg: N/A) (MAGIC, HEALING)
+(roll a 6-sided die and heal yourself by roll * 3)
+(if 4 or higher, heal an additional 10 HP)
+(cd: can be used every 5 turns)
+
+[🃏🔒] Pick A Card, Any Card (dmg: 1/2 of enemyMoveDmg) (MAGIC, REVERSAL)
+(steal a move from the enemy and deal 1/2 of its dmg)
+(cd: can be used every 10 turns)
+(locked until 15th turn)
+
+[🎲🔒] RNG H*ll (dmg: 10 dmg if 4 or higher) (MAGIC, ATTACK+DEBUFF)
+(override every enemy move with "Roll" and skip 5 turns)
+(every time they roll a 4 or higher, deal 20 dmg)
+(cd: can be used every 10 turns)
+(locked until 20th turn)
+
+[🔒] Your Luck is Running Out (dmg: 20 every 2 turns) (PHYSICAL, ATTACK)
+(deal 20 dmg using your spiky die every 2 turns for 6 turns)
+(cd: can be used every 10 turns)
+(locked until 25th turn)
+
+[🎲🔒] Dice Turret (dmg: 10 every 5 turns) (PHYSICAL+MAGIC, ATTACK)
+(deploy a turret that sends magical dice to the enemy, inflict 10 dmg every 5 turns)
+(SPECIAL: Dice Turret -- max deployment of 5)
+(locked until 30th turn)

@@ -1,4 +1,9 @@
 #4
 User: Merc
-Season Fragments:
-Season Coins:
+Season Fragments: 0
+Season Coins: 0
+
+Owned Movesets:
+Ranked: (#4), (#5), (#6), (#8)
+Unranked: N/A
+Exclusive: N/A

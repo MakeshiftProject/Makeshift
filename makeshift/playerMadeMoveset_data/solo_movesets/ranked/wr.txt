@@ -1,0 +1,80 @@
+(#8)
+WR (200/200) (super cards: 1/1)
+Description: Weather Report - Manipulate weather at your will with your stand
+
+ATK: 9/10
+DEF: 5/10
+VIT: 7/10
+
+Passive: Weathered - Magic attacks (received) deal 10% less dmg
+
+[=] Punch Combo (25 dmg) (PHYSICAL, ATTACK)
+(SPECIAL: Static Electrify -- If the enemy uses an item after you use this, they take 10 damage. [Effect lasts 1 turns])
+(Team up with your ability to punch the opponent, electifying them in the process)
+(cd: 2 turns)
+
+[=] Shock Barrage (20 dmg) (PHYSICAL, ATTACK)
+(SPECIAL: Electrify -- If the enemy uses an move after you use this, they take 20 damage. [Effect lasts 1 turns])
+(Infuse a barrage of punches with an electric shock)
+(cd: 4 turns)
+
+[=] Combustive Hit (10 dmg) (PHYSICAL, ATTACK)
+(SPECIAL: Ignite -- Ignites the enmy on fire, 5 damage per turn [Lasts 3 turns, doesnt stack])
+(Punch the enemy with a combustive punch, setting them on fire)
+(cd: 2 turns)
+
+
+[🔒] Lightning (25 damage) (MAGIC, ATTACK)
+(SPECIAL: Electrify -- Enemy takes 5 damage per turn [lasts 4 turns])
+(Lightning never strikes twice in the same place, they said..)
+(Usage: 2 // cd: 5 turns)
+(unlocked at turn 10)
+
+[🔒] Heat Attack (40 damage) (PHYSICAL, ATTACK)
+(SPECIAL: Burnt Up -- The enemy can't use spell cards for 5 turns.)
+(Fly around like a loose balloon, punching in a chain and then at the end strike them with a powerful beam of lightning.)
+(usage: 1)
+(unlocked at turn 20)
+
+[🔒] Cloud Suit (BUFF)
+(SPECIAL: Cloud Suit -- Reduce magic damage by 50% [Move lasts 3 turns])
+(Create a suit made of clouds with air inside)
+(usage: 1)
+(unlocked at turn 15)
+
+[🔒] Create Rain (MAGIC, DEBUFF)
+(SPECIAL: Saturated -- Disables magic moves (for enemies) for 3 turns)
+(Summon a raincloud)
+(usage: 1)
+(unlocked at turn 10)
+
+[🔒] Blood Icicles (20 dmg) (PHYSICAL, ATTACK)
+(SPECIAL: Thrown Icicles -- Icicles cause bleeding [5 dmg/turn, lasts 3 turns])
+(SPECIAL: More Icicles -- If you are bleeding, bleed damage increases by 2 damage and base damage increased by 10 dmg)
+(Create icicles made from your blood and throw them)
+(usage: 2 // cd: 5 turns)
+(unlocked at turn 10)
+
+[🔒] Freeze (10 dmg) (MAGIC, ATTACK)
+(SPECIAL: Freeze -- Slow down enemy movements, stuns enemy for 2 turns after using move)
+(Duration: 1 turn // Usage: 1)
+(unlocked at turn 10)
+
+[🔒] Gust of Wind (MAGIC, EVASIVE)
+(Dash away and evade an enemy attack [Does not evade supermoves])
+(Unlocked at turn 15)
+
+[🔒] Poison Dart Frog Rain (50 dmg) (PHYSICAL & MAGIC, ATTACK[ULTIMATE]) (requires super card)
+(SPECIAL: Poison Dart Frogs -- Causes 10 dmg/turn, lasts 3 turns [Disables ranged moves])
+(Form a cloud that rains down lethal poison dart frogs )
+
+[🔒] Heavy Weather (TRANSFORM)
+(Adds new move [below])
+(Transforms Weather Report into Heavy Weather, adds move)
+(Unlocked at turn 25)
+
+[🔒] Snail Projection (20 dmg)
+(SPECIAL: Rainbow Web: If the enemy uses a move during this move (lasts 5 turns), their arm will turn into snails. Removes use of items
+and spells)
+(usage: 1)
+(Unlocked at turn 25)

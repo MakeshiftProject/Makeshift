@@ -1,9 +1,9 @@
-#3
-User: Dabido
+#5
+User: Ash
 Season Fragments: 0
 Season Coins: 0
 
 Owned Movesets:
-Ranked: (#3), (#9), (#10)
+Ranked: (#7)
 Unranked: N/A
 Exclusive: N/A
